@@ -1,10 +1,7 @@
 [![Mike Cao Banner](https://github.com/ChengjunCao/ChengjunCao/blob/main/Profile%20Banner.png)](https://mikecao.dev/)
 
-## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/>
+## Hi there, my name is Mike Cao
 I'm a frontend (React/React Native) software developer!
-
-<p align="left">
-</p>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff) 
