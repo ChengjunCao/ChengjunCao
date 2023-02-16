@@ -1,7 +1,11 @@
 [![Mike Cao Banner](https://github.com/ChengjunCao/ChengjunCao/blob/main/Profile%20Banner.png)](https://mikecao.dev/)
 
-## Hi there, my name is Mike Cao
-I'm a frontend (React/React Native) software developer!
+<h3>
+  <samp>&gt; Hey There! I'm
+    <b><a target="_blank" href="https://www.linkedin.com/in/chengjuncao/">Mike Cao</a></b> 🚀
+  </samp>
+</h3>
+<p>A Frontend Developer with 2 years of proven experience at ActivateStaff (formerly TimeSaved) in helping the company create and maintain features on both web app and mobile app using React and React Native. Experienced in driving projects forward, collaborating with designers and backend developers, facilitating projects from concept to launch. Capable of continuous learning from senior developers. Eager to tackle more complex problems and continue to find best long-term solutions.</p>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff) 
@@ -21,3 +25,15 @@ I'm a frontend (React/React Native) software developer!
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) 
 ![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+<br/>
+<table align="center">
+  <row>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ChengjunCao&layout=compact&theme=synthwave'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=ChengjunCao&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave'>
+    </td>
+  </row>
+</table>   
